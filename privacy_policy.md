@@ -69,10 +69,6 @@ This Privacy Policy describes how MindCircle ("we", "our", or "the app") collect
 - Your data is stored in standard formats on your device
 - You can export or backup your data through iOS backup mechanisms
 
-### Children's Privacy
-
-MindCircle is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us immediately.
-
 ### Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by:
@@ -161,10 +157,6 @@ This app complies with:
 #### 数据可移植性
 - 您的数据以标准格式存储在您的设备上
 - 您可以通过 iOS 备份机制导出或备份数据
-
-### 儿童隐私
-
-MindCircle 不适用于 13 岁以下的儿童。我们不会故意收集 13 岁以下儿童的个人信息。如果您认为我们无意中收集了此类信息，请立即联系我们。
 
 ### 隐私政策的变更
 
