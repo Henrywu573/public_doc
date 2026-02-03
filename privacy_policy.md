@@ -19,9 +19,7 @@ This Privacy Policy describes how MindCircle ("we", "our", or "the app") collect
 - **Chat History**: All messages and timestamps within your groups
 
 #### 2. Data Sent to Third-Party Services
-- **AI Service Provider**: Your chat messages are sent to SiliconFlow (https://siliconflow.cn) via our Cloudflare Worker proxy to generate AI responses
-- **API Endpoint**: https://siliconflow-api-proxy.henrywu573.workers.dev
-- **Model Used**: DeepSeek-V3 AI model
+- **AI Service Provider**: Your chat messages are sent to SiliconFlow (https://siliconflow.cn) to generate AI responses
 
 ### How We Use Your Information
 
@@ -46,8 +44,7 @@ This Privacy Policy describes how MindCircle ("we", "our", or "the app") collect
 
 #### Data Transmission
 - Messages are transmitted to AI service providers via HTTPS encryption
-- We use a Cloudflare Worker as a secure proxy to protect API credentials
-- Your messages are only used to generate AI responses and are not stored by us
+- Your messages are only used to generate AI responses
 
 ### Third-Party Services
 
@@ -56,11 +53,6 @@ This Privacy Policy describes how MindCircle ("we", "our", or "the app") collect
 - **Data Shared**: Your chat messages and conversation context
 - **Privacy Policy**: https://siliconflow.cn/privacy (please review their policy)
 - **Data Retention**: Governed by SiliconFlow's data retention policies
-
-#### Cloudflare Workers
-- **Purpose**: Secure API proxy to protect credentials
-- **Data Shared**: Your chat messages in transit
-- **Privacy Policy**: https://www.cloudflare.com/privacypolicy/
 
 ### Your Rights and Choices
 
@@ -120,9 +112,7 @@ This app complies with:
 - **聊天历史**: 群组内的所有消息和时间戳
 
 #### 2. 发送到第三方服务的数据
-- **AI 服务提供商**: 您的聊天消息通过我们的 Cloudflare Worker 代理发送到 SiliconFlow (https://siliconflow.cn) 以生成 AI 回复
-- **API 端点**: https://siliconflow-api-proxy.henrywu573.workers.dev
-- **使用的模型**: DeepSeek-V3 AI 模型
+- **AI 服务提供商**: 您的聊天消息发送到硅基流动 (https://siliconflow.cn) 以生成 AI 回复
 
 ### 我们如何使用您的信息
 
@@ -147,8 +137,7 @@ This app complies with:
 
 #### 数据传输
 - 消息通过 HTTPS 加密传输到 AI 服务提供商
-- 我们使用 Cloudflare Worker 作为安全代理来保护 API 凭证
-- 您的消息仅用于生成 AI 回复，不会被我们存储
+- 您的消息仅用于生成 AI 回复
 
 ### 第三方服务
 
@@ -157,11 +146,6 @@ This app complies with:
 - **共享的数据**: 您的聊天消息和对话上下文
 - **隐私政策**: https://siliconflow.cn/privacy（请查看他们的政策）
 - **数据保留**: 受 SiliconFlow 数据保留政策约束
-
-#### Cloudflare Workers
-- **用途**: 安全 API 代理以保护凭证
-- **共享的数据**: 传输中的聊天消息
-- **隐私政策**: https://www.cloudflare.com/privacypolicy/
 
 ### 您的权利和选择
 
@@ -224,10 +208,8 @@ MindCircle 不适用于 13 岁以下的儿童。我们不会故意收集 13 岁�
 ### Third-Party Access / 第三方访问
 
 - **SiliconFlow**: Receives chat messages to generate AI responses
-- **Cloudflare**: Proxies API requests (no data retention)
 
-- **SiliconFlow**: 接收聊天消息以生成 AI 回复
-- **Cloudflare**: 代理 API 请求（不保留数据）
+- **硅基流动**: 接收聊天消息以生成 AI 回复
 
 ---
 
